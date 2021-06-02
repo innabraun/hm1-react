@@ -1,0 +1,36 @@
+.wrapper{
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+
+
+}
+
+.item1{
+    font-family: "Maiandra GD", SansSerif;
+    border-radius: 30px;
+    color: #fff;
+    text-decoration: none;
+    user-select: none;
+    background: #003b46;
+    padding: 0.7em 1.5em;
+    outline: none;
+    border: 0px;
+    height: 50px;
+    width: 150px;
+}
+
+
+.item2{
+    font-family: "Maiandra GD", SansSerif;
+    border-radius: 30px;
+    color: #fff;
+    text-decoration: none;
+    user-select: none;
+    background: #003567;
+    padding: 0.7em 1.5em;
+    outline: none;
+    border: 0px;
+    height: 50px;
+    width: 150px;
+}

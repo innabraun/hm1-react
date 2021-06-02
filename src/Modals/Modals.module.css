@@ -1,0 +1,65 @@
+.darkarea{
+    height: 100vh;
+    width: 100vw;
+    background-color: rgba(200,192,194,0.67);
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
+
+.onwrapper{
+    display: flex;
+    justify-content: center;
+    margin-top: 200px;
+
+}
+.wrapper{
+    font-family: "Maiandra GD", SansSerif;
+    color: white;
+    background-color: red;
+    width: 400px;
+    border-radius: 10px;
+
+}
+
+
+.header{
+    padding: 20px 10px;
+    background-color: firebrick ;
+    text-align: center;
+}
+
+
+.content {
+    padding: 20px 10px;
+    display: flex;
+   justify-content: center;
+    font-size: 18px;
+    text-align: center;
+}
+
+.button{
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    flex-direction: row;
+    padding-bottom: 10px;
+
+
+}
+
+.item{
+    margin-top: 10px;
+    margin-right: 10px;
+    background-color: indianred;
+    color: #fff;
+    text-decoration: none;
+    user-select: none;
+    padding: 0.7em 1.5em;
+    outline: none;
+    border: 0px;
+    height: 50px;
+    width: 100px;
+    border-radius: 50px;
+}
